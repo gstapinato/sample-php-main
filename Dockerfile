@@ -1,4 +1,4 @@
-FROM jkaninda/nginx-php-fpm:8.3
+FROM jkaninda/nginx-php-fpm:8.4
 # Copy laravel project files
 COPY . /var/www/html
 # Storage Volume
